@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tzhkX9OozNf6F8xJM0sZSgffky9RsPjZZbkHcuwbgV0NLgmjZGmhv2ak7HpUuLPrW5A0S4VX+FNz1g5gqtVC0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dennisgitau\\Desktop\\Sandbox\\ASP\\WebApiDemo\\WebDemoApi\\WebDemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dennisgitau\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
